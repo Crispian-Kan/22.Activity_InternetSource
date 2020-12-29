@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InternetSource</string>
+    <string name="title">檢 查 網 路 來 源</string>
+    <string name="check">Check</string>
+</resources>
